@@ -50,7 +50,7 @@ PromptLog solves this by adding a sleek, dockable sidebar that automatically ind
 
 1.  **Clone the repository**
     ```bash
-    git clone https://github.com/samarthzxy/PromptLog.git
+    git clone https://github.com/somendra-sengar/PromptLog
     ```
 2.  **Open Extensions Page**
     *   **Chrome:** `chrome://extensions`
